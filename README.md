@@ -4,7 +4,7 @@
 ## 项目成员
 
 * shaohailong@thinkit.cn
-* @panshao
+* @pan-shao
 
 ## 采用技术
 
