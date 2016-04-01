@@ -1,10 +1,10 @@
 # react-fools
 基于react的组件库，创建项目的今天是愚人节， 索性就使用fool来命名了。
 
-## 项目成员
+## 核心成员
 
-* shaohailong@thinkit.cn
-* @pan-shao
+* [shaohailong](https://github.com/shaohailong)
+* [pan-shao](https://github.com/pan-shao)
 
 ## 采用技术
 
